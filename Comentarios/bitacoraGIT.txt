@@ -24,4 +24,5 @@ Luego ya puedo configurar  mi repositorio remoto
 git remote add origin https://github.com/MarZapatta/Clase1RMar.git
 para subir los datos  archivos de mi ultimo commit local hacemos un
 git push -u origin master
+git status #para ver el estado si hay que actualizar
 
