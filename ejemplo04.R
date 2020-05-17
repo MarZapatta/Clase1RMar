@@ -59,5 +59,5 @@ help("seq")
 seq(12,from = 5,0.2)
 help("rep")
 rep(x = vec1,2)
-
+# Como tarea deben de aprender a utilizar las funciones rep y seq
 
