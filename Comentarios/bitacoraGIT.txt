@@ -20,4 +20,8 @@ esto nos pide informacion del correo
 $ git config --global user.email "mar.zapatta@gmail.com"
 y nos pide usuario
 $ git config --global user.name "MarZapatta"
+Luego ya puedo configurar  mi repositorio remoto
+git remote add origin https://github.com/MarZapatta/Clase1RMar.git
+para subir los datos  archivos de mi ultimo commit local hacemos un
+git push -u origin master
 
