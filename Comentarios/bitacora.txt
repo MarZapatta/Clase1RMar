@@ -1,0 +1,15 @@
+Habiendo avanzando la clase hasta casi las 09:30 AM
+listemos los visto hasta este momento
+
+*Los comentarios en R empiezan con #
+*Las funciones que hemos visto son:
+** setwd()
+** getwd(dir)
+** help()
+** help.search()
+** dir()
+** dir.create
+
+Todo problema debe ser formulado matricialmente de ahi la importancia de saber trabajar con vectores y matrices en R
+
+Tan o mas importante como saber utilizar una formula es saber cuando no utilizarla

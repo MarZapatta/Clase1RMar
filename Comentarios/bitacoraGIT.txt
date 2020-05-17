@@ -1,0 +1,23 @@
+1r paso: instalar git a patir de 
+git-scm.com
+Luego abrir Git bash
+tener en cuenta el hecho de tener un repositorio local en tu disco duro y en algun momento
+optar por subir nuestro codigo a GIThub.com
+Creo mi cuenta
+y creo un nuevo repositorio : no marcar la opcion del readme y dejar el repositorio publico
+abierto gitbash navegamos al directorio de trabjo creado en Rstudio
+
+consulto mi directorio actual pwd y lo modifico cd .. y cd ls:para ver el contenido
+CTRL + L = LIMPIAMOS 
+iniciqalizamos nuestro repositorio local
+git init
+arego los archivos del directorio de trabajo a mi repositorio que en este momento esta vacio
+git add .
+
+luego almacenamos la carpeta en el repositorio local
+$ git commit -a
+esto nos pide informacion del correo
+$ git config --global user.email "mar.zapatta@gmail.com"
+y nos pide usuario
+$ git config --global user.name "MarZapatta"
+
